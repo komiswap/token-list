@@ -11340,6 +11340,19 @@
     },
     {
       "chainId": 101,
+      "address": "BujqVdBnqWdyjb7var6t4touQd6A4V2fdzdaJWCyYn1C",
+      "symbol": "KMS",
+      "name": "Komi Swap",
+      "decimals": 8,
+      "logoURI": "https://drive.google.com/drive/folders/1j9gmgdlWix0ZHLNwGF9knI57CT_R-orp?usp=sharing",
+      "tags": [
+        ""
+      ],
+      "extensions": {
+        "instagram": "https://www.instagram.com/mativ_gf/"
+      }
+    {
+      "chainId": 101,
       "address": "LPmSozJJ8Jh69ut2WP3XmVohTjL4ipR18yiCzxrUmVj",
       "symbol": "mSOL-SOL-LP",
       "name": "Marinade LP token",
